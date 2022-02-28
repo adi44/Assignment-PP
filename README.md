@@ -12,6 +12,6 @@ also you can get all the transactions using http://localhost:3000/transactions.
 
 If you want to run frontend follow the following steps
 
-`cd frontend`
+`cd frontend/app`
 
-`npm run`
+`npm run start`
