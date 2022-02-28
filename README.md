@@ -19,6 +19,9 @@ If you want to run frontend follow the following steps
 if you want to run tests
 
 `cd backend`
+
 `npm run dev`
+
 `open a new terminal window`
+
 `npm run test`
