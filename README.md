@@ -1,4 +1,4 @@
-# Pamelo
+# Assignment-PP
 
 This project consists of two parts the frontend and the backend.
 
